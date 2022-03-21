@@ -1,0 +1,27 @@
+body{
+   background-image:linear-gradient(to right, #014760,
+   #1a6c9bc4);
+   width: 100vw;
+   height: 100vh;
+   font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.clk{
+    /* background:#c874b2; */
+    background-image: linear-gradient(to right,#5591a9,
+    #9ccddc);
+    color: aliceblue;
+    padding: 2rem;
+    border-radius: 0.2rem;
+    box-shadow: rgba(20, 20, 20, 0.2) 0px 7px 29px 0px;
+}
+.btn-style{
+    background-image: linear-gradient(to bottom, #466f96,
+    #0e3146);
+    color: white;
+}
+.btn-style:hover{
+    border: 2px solid #014760;
+    color: white;
+    background: transparent;
+}
